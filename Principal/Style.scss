@@ -1,0 +1,59 @@
+$primary: #0b0b0d;
+$secondary: #2e415c;
+$terceary: #ffffff;
+$quartenary: #1e1e1f;
+$green: #0b5aee;
+$font: "Oswald";
+
+
+
+
+
+
+
+
+
+
+
+
+.center {
+    text-align: center;
+}
+.cinzamed {
+    background-color: $quartenary;
+}
+.azulmorto {
+    color: $secondary;
+}
+.branco {
+    color: $terceary;
+}
+.bodycor {
+    background-color: $primary;
+}
+
+.font {
+    font-family: $font;
+}
+.navbar {
+    background-color: $quartenary;
+    .nav-link {
+        color: $terceary;
+    }
+    .nav-link.active {
+        color: $terceary;
+    }
+    .navbar-brand {
+        color: $terceary;
+    }
+} 
+
+.btn.btn-lg {
+    background-color: $quartenary;
+    color: #ffffff;
+}
+.input-group-text {
+    background-color: $quartenary;
+    color: #ffffff;
+
+}

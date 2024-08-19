@@ -1,0 +1,48 @@
+.center {
+  text-align: center;
+}
+
+.cinzamed {
+  background-color: #1e1e1f;
+}
+
+.azulmorto {
+  color: #2e415c;
+}
+
+.branco {
+  color: #ffffff;
+}
+
+.bodycor {
+  background-color: #0b0b0d;
+}
+
+.font {
+  font-family: "Oswald";
+}
+
+.navbar {
+  background-color: #1e1e1f;
+}
+.navbar .nav-link {
+  color: #ffffff;
+}
+.navbar .nav-link.active {
+  color: #ffffff;
+}
+.navbar .navbar-brand {
+  color: #ffffff;
+}
+
+.btn.btn-lg {
+  background-color: #1e1e1f;
+  color: #ffffff;
+}
+
+.input-group-text {
+  background-color: #1e1e1f;
+  color: #ffffff;
+}
+
+/*# sourceMappingURL=Style.css.map */
